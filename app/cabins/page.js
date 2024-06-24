@@ -1,6 +1,9 @@
 
-export default async function CabinPage() {
+export const metadata = {
+    title: 'Cabins',
+}
 
+export default function CabinPage() {
 
     return (
         <div>
