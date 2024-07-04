@@ -7,7 +7,7 @@ export const metadata = {
     title: 'Cabins',
 }
 
-export default function CabinPage() {
+export default function CabinsPage() {
 
     return (
         <div>
