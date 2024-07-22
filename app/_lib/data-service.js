@@ -181,7 +181,7 @@ export async function createBooking(newBooking) {
 
 /////////////
 // UPDATE
-
+/*
 // The updatedFields is an object which should ONLY contain the updated data
 export async function updateGuest(id, updatedFields) {
     const { data, error } = await supabase
@@ -225,3 +225,4 @@ export async function deleteBooking(id) {
     }
     return data
 }
+*/
