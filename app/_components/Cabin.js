@@ -14,6 +14,7 @@ export default function Cabin({ cabin }) {
         description
     } = cabin
 
+
     return (
         <div className='grid grid-cols-[3fr_4fr] gap-20 border border-primary-800 py-3 px-10 mb-24'>
             <div className='relative scale-[1.15] -translate-x-3'>
